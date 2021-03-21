@@ -2,7 +2,7 @@ Weather app made in React-Native.
 
 This app checks your location and tells you the weather in your region.
 
-I followed <a href="https://academy.nomadcoders.co/p/fucking-react-native-apps">this tutorial</a>. Thanks to Nicolás. 
+I followed <a href="https://academy.nomadcoders.co/p/fucking-react-native-apps">this tutorial</a>. 
 
 <div>
 <img src="https://user-images.githubusercontent.com/48341594/83065074-d01b9680-a09d-11ea-87f7-b8ced3a7ab05.jpg" width="30%"></img>
